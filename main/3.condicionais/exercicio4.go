@@ -4,6 +4,11 @@ import (
 	"fmt"
 )
 
+/*
+Faça um programa a partir das mesmas orientações do exercício acima,
+mas utilizando switch em vez de if.
+*/
+
 func main()  {
 	idade := 32
 

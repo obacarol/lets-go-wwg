@@ -4,6 +4,11 @@ import (
 	"fmt"
 )
 
+/*
+Faça um programa que, dada a idade de uma pessoa, verifique se ela é menor de idade,
+maior de idade ou idosa utilizando a instrução if.
+*/
+
 func main()  {
 	idade := 12
 

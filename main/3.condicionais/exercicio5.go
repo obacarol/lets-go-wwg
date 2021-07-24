@@ -2,6 +2,12 @@ package main
 
 import "fmt"
 
+/*
+Declare uma variável chamada hora e atribuir um valor int a ela.
+Usando switch, descreva cases e printe na tela se a hora corresponde
+ao período da manhã, tarde, noite ou madrugada.
+*/
+
 func main()  {
 	hora := 17
 

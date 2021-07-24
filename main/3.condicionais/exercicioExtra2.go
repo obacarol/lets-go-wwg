@@ -2,6 +2,11 @@ package main
 
 import "fmt"
 
+/*
+Faça um programa que testa se um número passado em uma variável é 0,
+múltiplo de 2, múltiplo de 3 ou nenhuma das opções.
+*/
+
 func main()  {
 	numero := 18
 

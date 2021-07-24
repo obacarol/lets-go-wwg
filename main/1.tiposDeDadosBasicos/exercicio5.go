@@ -2,6 +2,11 @@ package main
 
 import "fmt"
 
+/*
+Declare 5 variáveis e atribua operações relacionais a elas.
+Usando uma linha por variável, printe na tela o valor e o tipo de cada uma das variáveis.
+*/
+
 func main() {
 	a := 11<=10
 	b := 10==10

@@ -2,6 +2,13 @@ package main
 
 import "fmt"
 
+/*
+Usando um literal, crie um mapa que tem como chaves nomes de cores e
+como valores seu código hexadecimal.
+Delete uma entrada do mapa.
+Printe todas as etapas.
+*/
+
 func main()  {
 	cores := map[string]string{
 		"preto" : "#000000",

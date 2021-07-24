@@ -4,6 +4,13 @@ import (
 "fmt"
 )
 
+/*
+Declare variáveis para representar o preço dos itens do mercado conforme os valores da tabela.
+Declare variáveis para representar a quantidade ou peso dos itens do mercado conforme os valores da tabela.
+A banana e o abacate serão calculados pelo peso, a cerveja e o salgadinho serão calculados pela quantidade de unidades.
+Printe na tela os valores totais de cada um dos itens e o preço total da compra.
+*/
+
 func main() {
 	//var produto1, produto2, produto3 float64
 	banana := 1.25

@@ -2,6 +2,12 @@ package main
 
 import "fmt"
 
+/*
+Crie um tipo Pessoa que tenha os atributos nome, idade e cor preferida.
+Crie três variáveis do tipo pessoa.
+Printe o nome de todas as três, bem como frases informando sua idade e cores preferidas.
+*/
+
 func main()  {
 	type Pessoa struct {
 		Nome string

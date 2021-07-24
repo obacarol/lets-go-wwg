@@ -4,6 +4,13 @@ import (
 	"fmt"
 )
 
+/*
+Crie um mapa chamado ano onde as chaves (keys) são os números dos meses do ano (ex: 1, 2) e
+os valores (values) são os nomes dos meses.
+Printe na tela os nomes do meses 1 e 12.
+Printe na tela o tamanho do mapa ano.
+*/
+
 func main() {
 	ano := make(map[int64]string)
 
